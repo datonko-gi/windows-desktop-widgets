@@ -5,6 +5,18 @@ below all your application windows, auto-start on login, persist their state,
 and never steal focus when you click them. PowerShell + WinForms only, no
 extra dependencies, no admin install.
 
+## Widgets
+
+Ready-to-install widgets built with the same approach. Each one has its own repo with screenshots, a README and a ZIP under Releases.
+
+<!-- widgets-table:start -->
+| Widget | What it does | Repo |
+|---|---|---|
+| Volume Mic Widget | Microphone volume meter for the Windows desktop. | [datonko-gi/volume-mic-widget](https://github.com/datonko-gi/volume-mic-widget) |
+| Habit Tracker Widget | Multi-goal habit tracker with a 20-week grid, weekly targets and per-goal color themes. | [datonko-gi/habit-tracker-widget](https://github.com/datonko-gi/habit-tracker-widget) |
+| Claude Usage Widget | Shows your Claude Code 5-hour and weekly usage limits as bars with reset countdowns. | [datonko-gi/claude-usage-widget](https://github.com/datonko-gi/claude-usage-widget) |
+<!-- widgets-table:end -->
+
 ## Why this exists
 
 The classic Rainmeter-style "reparent to WorkerW" trick is unreliable on
