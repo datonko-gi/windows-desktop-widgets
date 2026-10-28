@@ -15,6 +15,7 @@ Ready-to-install widgets built with the same approach. Each one has its own repo
 | Volume Mic Widget | Microphone volume meter for the Windows desktop. | [datonko-gi/volume-mic-widget](https://github.com/datonko-gi/volume-mic-widget) |
 | Habit Tracker Widget | Multi-goal habit tracker with a 20-week grid, weekly targets and per-goal color themes. | [datonko-gi/habit-tracker-widget](https://github.com/datonko-gi/habit-tracker-widget) |
 | Claude Usage Widget | Shows your Claude Code 5-hour and weekly usage limits as bars with reset countdowns. | [datonko-gi/claude-usage-widget](https://github.com/datonko-gi/claude-usage-widget) |
+| AudioTap | Call recorder for Zoom, Teams and Meet: two audio tracks, local faster-whisper transcript, desktop widget. | [datonko-gi/audiotap](https://github.com/datonko-gi/audiotap) |
 <!-- widgets-table:end -->
 
 ## Why this exists
