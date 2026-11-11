@@ -17,6 +17,7 @@ Ready-to-install widgets built with the same approach. Each one has its own repo
 | Claude Usage Widget | Shows your Claude Code 5-hour and weekly usage limits as bars with reset countdowns. | [datonko-gi/claude-usage-widget](https://github.com/datonko-gi/claude-usage-widget) |
 | AudioTap | Call recorder for Zoom, Teams and Meet: two audio tracks, local faster-whisper transcript, desktop widget. | [datonko-gi/audiotap](https://github.com/datonko-gi/audiotap) |
 | Time Tracker Widget | Project time tracker with weekly plan vs actual hours, idle pause and global hotkeys. | [datonko-gi/time-tracker-widget](https://github.com/datonko-gi/time-tracker-widget) |
+| Stopwatch Timer Widget | Stopwatch and countdown timer that sits below all windows, one global hotkey, survives reboots. | [datonko-gi/stopwatch-timer-widget](https://github.com/datonko-gi/stopwatch-timer-widget) |
 <!-- widgets-table:end -->
 
 ## Why this exists
